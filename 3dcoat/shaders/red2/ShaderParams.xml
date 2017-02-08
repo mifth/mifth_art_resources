@@ -5,7 +5,7 @@
  <UseNormalmapTexture>false</UseNormalmapTexture>
  <DepthBased>false</DepthBased>
  <UseCavity>true</UseCavity>
- <FlatShading>false</FlatShading>
+ <FlatShading>true</FlatShading>
  <ExParams>
   <ExShaderParam>
    <Usage></Usage>
@@ -115,7 +115,7 @@
    <ID>bulgeIntensity</ID>
    <Type>slider010</Type>
    <!ShortName>Bulge_Intensity</!ShortName>
-   <$Default>0.200000</$Default>
+   <$Default>0.100000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
