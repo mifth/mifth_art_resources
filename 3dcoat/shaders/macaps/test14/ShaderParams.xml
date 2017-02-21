@@ -24,7 +24,7 @@
    <ID>ColorModulation</ID>
    <Type>float4</Type>
    <!ShortName>Color_Modulation</!ShortName>
-   <$Default>FF8C8480</$Default>
+   <$Default>FFBCBCBC</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
@@ -38,14 +38,14 @@
    <ID>cavityIntensity</ID>
    <Type>slider010</Type>
    <!ShortName>Cavity_Intensity</!ShortName>
-   <$Default>0.300000</$Default>
+   <$Default>0.200000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
    <ID>cavityColor</ID>
    <Type>float4</Type>
    <!ShortName>Cavity_Color</!ShortName>
-   <$Default>FF5C7C80</$Default>
+   <$Default>FF3B4B4C</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
@@ -59,14 +59,14 @@
    <ID>bulgeColor</ID>
    <Type>float4</Type>
    <!ShortName>Bulge_Color</!ShortName>
-   <$Default>FFC1A39F</$Default>
+   <$Default>FFC6BBB7</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
    <ID>SpecularityForBaking</ID>
    <Type>slider01</Type>
    <!ShortName>SpecularityForBaking</!ShortName>
-   <$Default>0.230000</$Default>
+   <$Default>0.200000</$Default>
   </ExShaderParam>
  </ExParams>
 </VoxShaderParams>
