@@ -38,7 +38,7 @@
    <ID>cavityIntensity</ID>
    <Type>slider010</Type>
    <!ShortName>Cavity_Intensity</!ShortName>
-   <$Default>0.400000</$Default>
+   <$Default>0.150000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
@@ -52,14 +52,14 @@
    <ID>bulgeIntensity</ID>
    <Type>slider010</Type>
    <!ShortName>Bulge_Intensity</!ShortName>
-   <$Default>0.300000</$Default>
+   <$Default>0.100000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
    <ID>bulgeColor</ID>
    <Type>float4</Type>
    <!ShortName>Bulge_Color</!ShortName>
-   <$Default>FFF3C9C4</$Default>
+   <$Default>FFF3D6C4</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
