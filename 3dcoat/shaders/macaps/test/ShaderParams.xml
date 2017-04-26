@@ -38,7 +38,7 @@
    <ID>cavityIntensity</ID>
    <Type>slider010</Type>
    <!ShortName>Cavity_Intensity</!ShortName>
-   <$Default>0.200000</$Default>
+   <$Default>0.150000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
