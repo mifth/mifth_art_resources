@@ -66,7 +66,7 @@
    <ID>Color</ID>
    <Type>float4</Type>
    <!ShortName>Color</!ShortName>
-   <$Default>FF2C2F2F</$Default>
+   <$Default>FF525858</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
@@ -115,7 +115,7 @@
    <ID>bulgeIntensity</ID>
    <Type>slider010</Type>
    <!ShortName>Bulge_Intensity</!ShortName>
-   <$Default>0.050000</$Default>
+   <$Default>0.100000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
@@ -129,7 +129,7 @@
    <ID>bulgeMetall</ID>
    <Type>slider01</Type>
    <!ShortName>Bulge_Metalness</!ShortName>
-   <$Default>0.000000</$Default>
+   <$Default>0.135000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>

@@ -136,28 +136,28 @@
    <ID>bulgeGloss</ID>
    <Type>slider01</Type>
    <!ShortName>Bulge_Gloss</!ShortName>
-   <$Default>0.000000</$Default>
+   <$Default>0.515000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
    <ID>SpecularFace</ID>
    <Type>float4</Type>
    <!ShortName>SpecularFace</!ShortName>
-   <$Default>FF363636</$Default>
+   <$Default>FF504431</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
    <ID>SpecularEdge</ID>
    <Type>float4</Type>
    <!ShortName>SpecularEdge</!ShortName>
-   <$Default>FFA9A49A</$Default>
+   <$Default>FF2C80B3</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
    <ID>SpecFresnelExp</ID>
    <Type>slider010</Type>
    <!ShortName>SpecFresnelExp</!ShortName>
-   <$Default>7.549998</$Default>
+   <$Default>1.300000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_COLORTEX</Usage>
@@ -171,21 +171,21 @@
    <ID>ClearCoatFace</ID>
    <Type>float4</Type>
    <!ShortName>ClearCoatFace</!ShortName>
-   <$Default>FF202125</$Default>
+   <$Default>FF2D2E29</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
    <ID>ClearCoatEdge</ID>
    <Type>float4</Type>
    <!ShortName>ClearCoatEdge</!ShortName>
-   <$Default>FFD2E4EB</$Default>
+   <$Default>FF737660</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
    <ID>CCFresnelExponent</ID>
    <Type>slider010</Type>
    <!ShortName>CCFresnelExponent</!ShortName>
-   <$Default>3.350001</$Default>
+   <$Default>1.450001</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_GLOSSTEX</Usage>
@@ -199,7 +199,7 @@
    <ID>ClearCoatRoughness</ID>
    <Type>slider01</Type>
    <!ShortName>ClearCoatRoughness</!ShortName>
-   <$Default>0.435000</$Default>
+   <$Default>0.850000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_GLOSSTEX</Usage>
@@ -213,21 +213,21 @@
    <ID>CCPaintReplace</ID>
    <Type>slider01</Type>
    <!ShortName>CCPaintReplace</!ShortName>
-   <$Default>0.065000</$Default>
+   <$Default>0.000000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
    <ID>Fuzz</ID>
    <Type>slider010</Type>
    <!ShortName>Fuzz</!ShortName>
-   <$Default>1.850000</$Default>
+   <$Default>0.000000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
    <ID>FuzzOnTop</ID>
    <Type>slider010</Type>
    <!ShortName>FuzzOnTop</!ShortName>
-   <$Default>0.000000</$Default>
+   <$Default>4.599999</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>

@@ -66,28 +66,28 @@
    <ID>Color</ID>
    <Type>float4</Type>
    <!ShortName>Color</!ShortName>
-   <$Default>FF4F4F4F</$Default>
+   <$Default>FF7F7D6C</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
    <ID>Metalness</ID>
    <Type>slider01</Type>
    <!ShortName>Metalness</!ShortName>
-   <$Default>0.050000</$Default>
+   <$Default>0.000000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
    <ID>ExtraGloss</ID>
    <Type>slider01</Type>
    <!ShortName>OverallGloss</!ShortName>
-   <$Default>0.290000</$Default>
+   <$Default>0.725000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
    <ID>cavityIntensity</ID>
    <Type>slider010</Type>
    <!ShortName>Cavity_Intensity</!ShortName>
-   <$Default>0.200000</$Default>
+   <$Default>0.100000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
@@ -108,7 +108,7 @@
    <ID>cavityGloss</ID>
    <Type>slider01</Type>
    <!ShortName>Cavity_Gloss</!ShortName>
-   <$Default>0.120000</$Default>
+   <$Default>0.130000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
@@ -122,21 +122,21 @@
    <ID>bulgeColor</ID>
    <Type>float4</Type>
    <!ShortName>Bulge_Color</!ShortName>
-   <$Default>FF6E6C5C</$Default>
+   <$Default>FF91907D</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
    <ID>bulgeMetall</ID>
    <Type>slider01</Type>
    <!ShortName>Bulge_Metalness</!ShortName>
-   <$Default>0.290000</$Default>
+   <$Default>0.320000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage>USE_CAVITY</Usage>
    <ID>bulgeGloss</ID>
    <Type>slider01</Type>
    <!ShortName>Bulge_Gloss</!ShortName>
-   <$Default>0.620000</$Default>
+   <$Default>0.715000</$Default>
   </ExShaderParam>
   <ExShaderParam>
    <Usage></Usage>
