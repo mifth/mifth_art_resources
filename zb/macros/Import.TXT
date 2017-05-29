@@ -1,0 +1,16 @@
+
+[VarDef,gCurrentSDiv]
+
+[IButton,???,"Press to run this macro. Macros can be aborted by pressing the ëescí key.",
+[IShowActions,0]
+[IConfig,4.5]
+
+[VarSet, gCurrentSDiv, Tool:Geometry:SDiv]
+
+[ISet,Tool:Geometry:SDiv,1]
+
+[FileNameSetNext,"F:\Documents\Exchange\exchange.Obj"]
+[IPress,Tool:Import]
+
+[ISet,Tool:Geometry:SDiv,gCurrentSDiv]
+]
