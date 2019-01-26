@@ -7,7 +7,7 @@
 
 [VarSet, gCurrentSDiv, Tool:Geometry:SDiv]
 
-[FileNameSetNext,"F:\Documents\Exchange\exchange.Obj"]
+[FileNameSetNext,"C:\Users\mifth\Documents\Exchange\exchange.Obj"]
 [IPress,Tool:Export]
 
 [ISet,Tool:Geometry:SDiv,gCurrentSDiv]

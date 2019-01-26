@@ -9,7 +9,7 @@
 
 [ISet,Tool:Geometry:SDiv,1]
 
-[FileNameSetNext,"F:\Documents\Exchange\exchange.Obj"]
+[FileNameSetNext,"C:\Users\mifth\Documents\Exchange\exchange.Obj"]
 [IPress,Tool:Import]
 
 [ISet,Tool:Geometry:SDiv,gCurrentSDiv]
